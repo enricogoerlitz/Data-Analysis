@@ -1,0 +1,13 @@
+# automated generated directories
+.ipynb_checkpoints
+.DS_STORE
+__pycache__
+.mypy_cache
+.vscode
+
+# directories
+00_Template
+00_Planning
+
+# files
+licenceless_photos.txt
