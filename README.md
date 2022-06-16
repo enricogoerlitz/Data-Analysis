@@ -1,4 +1,4 @@
-# Learning Project: Analysis of different datasets.
+# Project: Analysis of different datasets.
 
 ## General
 
