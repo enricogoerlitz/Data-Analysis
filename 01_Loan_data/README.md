@@ -11,6 +11,21 @@ This project is an EDA of the loan data of a bank. <br>
 We want to find out, which and how features got an impact on the pay back of the loans. <br>
 Therefor, we will aks us the following questions (next section) and proceed as follows: <br>
 
+-   describe process...
+
+In the end we want to say, which kind features and corresponding data got an positive and which got an negative effect on the pay back. So that we focus on them when granting the loan.
+
+## Data questions
+
+<ol>
+    <li>What are good loan pay back data? (We need to define this!)</li>
+    <li>Which features got an impact on the loan pay back?</li>
+    <li>Which features and there corresponding data got an positive and which got an negative effect on the loan pay back?</li>
+    <li>How does the best and the worst loan data looks like?</li>
+</ol>
+
+## Data cleaning & preprocessing
+
 (!!! - EDIT THIS - !!!)
 
 -   rename `issue_d` to `issue_month`
@@ -35,23 +50,6 @@ Therefor, we will aks us the following questions (next section) and proceed as f
 -   add the column `quarter` {Q1, Q2, Q3, Q4}
 
 In general, at missing values, we will proceed very conservative and expect the worst.
-
-<br>
-
-In the end we want to say, which kind features and corresponding data got an positive and which has an negative effect on the pay back. So that we focus on them when granting the loan.
-
-## Data questions
-
-<ol>
-    <li>What are good loan pay back data? (We need to define this!)</li>
-    <li>Which features got an impact on the loan pay back?</li>
-    <li>Which features and there corresponding data got an positive and which got an negative effect on the loan pay back?</li>
-    <li>How does the best and the worst loan data looks like?</li>
-</ol>
-
-## Data cleaning & preprocessing
-
--
 
 ## Used technologies
 
