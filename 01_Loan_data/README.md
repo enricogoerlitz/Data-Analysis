@@ -28,6 +28,7 @@ Seaborn <br>
 ## Used resources
 
 https://unsplash.com/ <br>
+https://unsplash.com/photos/NpTbVOkkom8 <br>
 https://stackoverflow.com/ <br>
 
 ## Copyright
