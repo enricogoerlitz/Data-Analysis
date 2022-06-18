@@ -1,25 +1,35 @@
-# EDA Project: ...
+# EDA Project: Movie & TV-Show Entertainment Data Analysis
 
 ## General
 
 Author: Enrico Goerlitz <br/>
 Initial Date: 16.06.2022
 
+<br>
+
 ## Description
 
-This project is ... <br>
-ToDos: <br>
+This is an EDA-Project. <br>
+The dataset came from <a href="https://datacamp.com">datacamp.com</a> and contains data about the entertainment industry. <br>
+Our main topic for this EDA will be the question, whether or whether not the length of movies keeps getting shorter over time. <br>
+Therefor, we take a closer look to the following questions: <br>
 
--   interpret and format correctly
--   write README
+<br>
 
 ## Data questions
 
-...
+#### Data Distribution
 
-## Data cleaning & preprocessing
+-   Which genre is the most produced (divided by Movie and TV-Show)
+-   Which genre got the longest duration time (divided by Movie and TV-Show)
+-   Which country releases the most Movies / TV-Shows
+-   Which country releases the longest Movies / TV-Shows
 
-...
+#### Main Topic
+
+-   **Does the length of movies getting shorter over time?**
+
+<br>
 
 ## Used technologies
 
@@ -29,10 +39,15 @@ Pandas <br>
 Matplotlib <br>
 Seaborn <br>
 
+<br>
+
 ## Used resources
 
 https://unsplash.com/ <br>
+https://unsplash.com/photos/Bx5-8M-y0sI <br>
 https://stackoverflow.com/ <br>
+
+<br>
 
 ## Copyright
 
