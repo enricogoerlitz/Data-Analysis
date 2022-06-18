@@ -10,8 +10,6 @@ Initial Date: 16.06.2022
 This project is ... <br>
 ToDos: <br>
 
--   finish eda
--   set title to each plot
 -   interpret and format correctly
 -   write README
 
