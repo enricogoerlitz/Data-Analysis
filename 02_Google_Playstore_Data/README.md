@@ -68,6 +68,8 @@ We want to find out, which kind of apps are the most popular e.g. by the rating 
 -   Are bigger apps more downloaded then smaller apps?
 -   Which content rating categories will downloaded the most?
 
+<br>
+
 ## Data cleaning & preprocessing
 
 ...
@@ -76,11 +78,11 @@ We want to find out, which kind of apps are the most popular e.g. by the rating 
 
 ## Used technologies
 
-Python <br>
-NumPy <br>
-Pandas <br>
-Matplotlib <br>
-Seaborn <br>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
 
 <br>
 

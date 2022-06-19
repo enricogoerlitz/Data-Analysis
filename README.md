@@ -11,11 +11,11 @@ This project contains my EDA's and represents an documentation of these.
 
 ## Technologies
 
-Python <br/>
-NumPy <br/>
-Pandas <br/>
-Matplotlib <br/>
-Seaborn <br/>
+-   Python
+-   NumPy
+-   Pandas
+-   Matplotlib
+-   Seaborn
 
 ## Used resources:
 
