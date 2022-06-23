@@ -10,7 +10,7 @@ Initial Date: 19.06.2022
 ## Description
 
 This dataset came from <a href="https://datacamp.com">datacamp.com</a> and contains data of the Google Playstore. <br>
-We want to find out, which kind of apps are the most popular e.g. by the rating download rates and much more!
+We want to find out, which kind of apps are the most popular e.g. by the rating, downloads and much more!
 
 <br>
 
@@ -58,7 +58,7 @@ We want to find out, which kind of apps are the most popular e.g. by the rating 
 
 -   Are higher rated apps more downloaded?
 
--   How is the rating distribution of the different content ratings?
+-   How is the rating distribution of the different content groups?
 
 -   How is the total rating distribution over all apps (0.5 - 5 categories)?
 
