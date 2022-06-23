@@ -7,7 +7,6 @@ Initial Date: 19.06.2022
 
 ### _LAST TODOS_
 
--   Länge der Zeilen kürzen
 -   set_title
 -   interpret + comments
 -   questions ordentlich formulieren
