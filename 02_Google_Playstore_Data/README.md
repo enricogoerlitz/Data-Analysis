@@ -5,82 +5,102 @@
 Author: Enrico Goerlitz <br/>
 Initial Date: 19.06.2022
 
-### _LAST TODOS_
-
--   set_title
--   interpret + comments
--   questions ordentlich formulieren
--   into in notebook ordnen
--   readme aktualisieren
-
 <br>
 
 ## Description
 
 This dataset came from <a href="https://datacamp.com">datacamp.com</a> and contains data of the Google Playstore. <br>
-We want to find out, which kind of apps are the most popular e.g. by the rating and download rates.
+We want to find out, which kind of apps are the most popular e.g. by the rating download rates and much more!
 
 <br>
 
 ## Data questions
 
-### Main-Topic
+### Main-Topics
 
-#### Which kind of Apps got the best Rating
+#### Which kind of apps got the best rating?
 
 -   genre
+
 -   content ratings
+
 -   free / paid apps
+
 -   price category at paid apps
+
 -   review count of app
+
 -   app size
 
-#### Which kind of Apps got the most downloads
+#### Which kind of apps got the most downloads?
 
 -   genre
+
 -   rating
--   content ratings
+
 -   free / paid apps
+
 -   price category at paid apps
+
 -   review count of app
+
 -   app size
+
+<br>
 
 ### General-Topics
 
 #### Genre
 
 -   What are the most published genres?
--   What are the top genres (by rating, downloads & in combination)?
--   Which genre got the best rating-installment combination (weighted: rating=30%, downloads=70%)
+
+#### App Rating
+
+-   Are higher rated apps more downloaded?
+
+-   How is the rating distribution of the different content ratings?
+
+-   How is the total rating distribution over all apps (0.5 - 5 categories)?
+
+-   Got a app with many reviews an better rating? Is there a significant threshold?
+
+#### App Reviews
+
+-   Are high reviewed apps more downloaded
 
 #### Free & Paid Apps
 
 -   How is the distribution of paid and free apps?
+
 -   Do paid apps get a better rating than free apps?
+
 -   In terms of total releases, are paid apps downloaded more than free apps?
--   Does the price affect the rating (3 price categories)? Do high price apps got an better rating?
--   Does the price affect the downloads (3 price categories)? Do high price apps got an better download rate?
--   Which price category got the best rating-download combination when we want the highest turnover?
 
-#### App Rating
+#### Size
 
--   How is the total rating distribution over all apps (10 (0.5 - 5) categories)?
--   How is the total rating distribution over all apps (5 (1 - 5) categories)?
--   Got a app with many reviews an better rating? Is there a significant threshold?
--   Is there an relationship between the rating and the size of the app? Do bigger apps got an better rating, because of the higher functionality density?
--   How is the rating distribution of the different content ratings?
--   Are higher rated apps more downloaded?
-
-#### Other
-
--   Are bigger apps more downloaded then smaller apps?
--   Which content rating categories will downloaded the most?
-
-<br>
+-   Are bigger apps more downloaded
 
 ## Data cleaning & preprocessing
 
-...
+-   Drop columns: {Unnamed: 0, Android Ver, Current Ver, Last Updated, Category}
+
+-   Rename columns: {Installs: Downloads, Content Rating: Content Group}
+
+-   Rating: interpolate by the median of genre rating
+
+-   Genre: split genre with more genres in one cell and add the genre as new copied row (in a new df_genre_cleaned df)
+
+-   Reviews: classify Reviews to Review Rate {Low, Medium, High} as category dtype
+
+-   Size: interpolate by the median of genre size; classify to Size Class {Low, Medium, High} as category dtype
+
+-   Downloads: classify to Download Rate {Low, Medium, High} as category dtype
+
+-   Type: as category dtype
+
+-   Price: convert to floats; classify to Price Class {Low, Medium, High, Very High} as category dtype
+
+-   Content Rating: map {Mature 17+: Adults, Adults only 18+: Adults, Everyone 10+: Everyone, Unrated: Everyone}
 
 <br>
 
