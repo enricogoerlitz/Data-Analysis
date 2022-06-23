@@ -80,6 +80,8 @@ We want to find out, which kind of apps are the most popular e.g. by the rating 
 
 -   Are bigger apps more downloaded
 
+<br>
+
 ## Data cleaning & preprocessing
 
 -   Drop columns: {Unnamed: 0, Android Ver, Current Ver, Last Updated, Category}
