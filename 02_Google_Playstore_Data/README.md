@@ -62,7 +62,7 @@ We want to find out, which kind of apps are the most popular e.g. by the rating,
 
 -   How is the total rating distribution over all apps (0.5 - 5 categories)?
 
--   Got a app with many reviews an better rating? Is there a significant threshold?
+-   Got an app with many reviews an better rating? Is there a significant threshold?
 
 #### App Reviews
 
