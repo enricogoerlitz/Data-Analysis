@@ -1,4 +1,4 @@
-# EDA Project: Google Playstore Data
+# Data-Analysis Project: Google Playstore Data
 
 ## General
 

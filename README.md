@@ -7,7 +7,7 @@ Initial Date: 16.06.2022
 
 ## Description
 
-This project contains my EDA's and represents an documentation of these.
+This project contains my Data-Analysis and represents an documentation of these.
 
 ## Technologies
 

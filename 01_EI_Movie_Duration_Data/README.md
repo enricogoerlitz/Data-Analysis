@@ -1,4 +1,4 @@
-# EDA Project: Movie & TV-Show Entertainment Data Analysis
+# Data-Analysis Project: Movie & TV-Show Entertainment Data Analysis
 
 ## General
 
@@ -9,9 +9,9 @@ Initial Date: 16.06.2022
 
 ## Description
 
-This is an EDA-Project. <br>
+This is an Data-Analysis-Project. <br>
 The dataset came from <a href="https://datacamp.com">datacamp.com</a> and contains data about the entertainment industry. <br>
-Our main topic for this EDA will be the question, whether or whether not the length of movies keeps getting shorter over time. <br>
+Our main topic for this Data-Analysis will be the question, whether or whether not the length of movies keeps getting shorter over time. <br>
 Therefor, we take a closer look to the following questions: <br>
 
 <br>
