@@ -6,6 +6,7 @@ __pycache__
 .vscode
 
 # directories
+data
 00_Template
 00_Planning
 01_Titanic
