@@ -1,23 +1,17 @@
-# Data-Analysis Project: ...
+# Data-Analysis Project: Titanic
 
 ## General
 
 Author: Enrico Goerlitz <br/>
 Initial Date: 01.05.2022
 
-<br>
-
 ## Description
 
-This project is ...
+This dataset contains data about the passengers of the titanic and whether or whether not they have survived.
 
 ## Data questions
 
-Which features got an affect on the survival.
-
-## Data cleaning & preprocessing
-
-...
+Which features got an affect on the survival?
 
 ## Used technologies
 
@@ -32,8 +26,6 @@ Which features got an affect on the survival.
 -   https://unsplash.com/
 -   https://unsplash.com/photos/y-9-X5-4-vU
 -   https://stackoverflow.com/
-
-<br>
 
 ## Copyright
 
