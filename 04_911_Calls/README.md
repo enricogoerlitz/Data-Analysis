@@ -25,19 +25,19 @@ This data contains Emergency (911) Calls: Fire, Traffic, EMS for Montgomery Coun
 
 -   Which Town got the most 911-Calls
 
--   What are the most 911-Emergency-Types in the Top-911-Call-Towns
+-   What are the most 911-EmergencyTypes in the Top-911-Call-Towns
 
--   Is there a Patterns between the frequency of 911-Calls and the HourOfDay
+-   Is there a Pattern between the Frequency of 911-Calls and the HourOfDay
 
--   Is there a Patterns between the frequency of 911-Calls and the DayOfWeek
+-   Is there a Pattern between the Frequency of 911-Calls and the DayOfWeek
 
--   Is there a Patterns between the frequency of 911-Calls and the Month
+-   Is there a Pattern between the Frequency of 911-Calls and the Month
 
 <br>
 
 **EmergencyTypes of 911-Calls**
 
--   How is the distribution of Emergency-Types
+-   How is the Distribution of EmergencyTypes
 
 -   In which Towns are the most EMS-911-Calls
 
@@ -51,7 +51,7 @@ This data contains Emergency (911) Calls: Fire, Traffic, EMS for Montgomery Coun
 
 -   Which Addresses did the most 911-Calls
 
--   How is the distribution of the Top-Addresses EmergencyTypes
+-   How is the Distribution of the Top-Addresses EmergencyTypes
 
 -   Which Address got the most EMS-911-Calls
 
